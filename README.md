@@ -1,3 +1,5 @@
+<label for="email">Email:</label>
+<input type="email " id="email"name="email"required>
 
 <section id="feedback">
   <h2>Feedback Form</h2>
@@ -100,12 +102,12 @@
 
 <section class="features">
     <div class="feature-box box1">
-      <h3>Learning</h3>
+      <h3>Learning</h4>
       <p>Gain hands-on experience in programming, networking, and electronics.</p>
       <a href="#about">Learn More →</a>
     </div>
     <div class="feature-box box2">
-      <h3>Expertise</h3>
+      <h3>Expertise</h4>
       <p>Develop the technical skills needed for today’s industries.</p>
       <a href="#about">Learn More →</a>
     </div>
@@ -115,7 +117,7 @@
       <a href="#activities">Learn More →</a>
     </div>
     <div class="feature-box box4">
-      <h3>Support</h3>
+      <h3>Support</h4>
       <p>We guide students with mentorship, training, and career advice.</p>
       <a href="#contact">Learn More →</a>
     </div>
